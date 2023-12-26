@@ -1,6 +1,5 @@
----
 galaxy_info:
-  author: Sivakumar Reddy M
+  author: "Sivakumar Reddy M"
   description: "Installing MongoDB in centos8"
   license: MIT
   min_ansible_version: 2.10
@@ -15,4 +14,3 @@ galaxy_info:
   galaxy_tags:
     - mytag1
     - mytag2
-  role_name: mongodb

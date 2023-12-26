@@ -12,3 +12,5 @@ galaxy_info:
     - tag1
     - tag2
   galaxy_tags:
+    - mytag1
+    - mytag2
